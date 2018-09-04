@@ -1,0 +1,22 @@
+* {
+    font-family: verdana;
+}
+.target {
+    background-color: lightgrey;
+    width: 80%;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.detailbutton {
+    display: inline-block;
+}
+
+.progress {
+    background-color: darkcyan;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    width: 0;
+    color: white;
+}
